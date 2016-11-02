@@ -1,0 +1,49 @@
+#bodyWrapper {
+    width: 750px;
+    height: 600px;
+margin-right: 0;
+}
+
+#selector{
+  width:200px;
+  height:600px;
+  background-color: gray;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 150%;
+  transform: translateY(120px);
+  margin-right: 20px;
+  overflow:scroll;
+}
+
+#boxPlayWrapper{
+  width:500px;
+  height:550px;
+
+}
+
+#box {
+
+    width:500px;
+    height: 400px;
+    background-color: #474747;
+    border-radius: 10px;
+}
+
+#play{
+  font-size: 200%;
+  font: verdana;
+  color: green;
+  width: 500px;
+  height: 100px;
+  background-color: transparent;
+  border-radius: 10px;
+  border-color: green;
+  border-style: solid;
+  border-width: 3px;
+}
+
+button.active{
+background-color: blue;
+
+}
